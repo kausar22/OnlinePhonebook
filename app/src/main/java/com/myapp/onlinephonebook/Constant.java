@@ -9,7 +9,7 @@ public class Constant {
     //for local host-Emulator public static final String SIGNUP_URL = "http://10.0.2.2/contacts/signup.php";
 
     //main url or address
-    public static final String MAIN_URL = "http://android.nkrit.com";
+    public static final String MAIN_URL = "https://android.nkrit.com";
 
     //others url
     public static final String SIGNUP_URL = MAIN_URL+"/contacts/signup.php";
